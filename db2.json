@@ -1,0 +1,11 @@
+{
+  "products": [
+    {
+      "name": "Lapis de Cor",
+      "price": "15.80",
+      "registered": "2022-12-21 21 : 9 : 21",
+      "amount": "160",
+      "id": 1
+    }
+  ]
+}

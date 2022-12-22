@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "name": "Gabriel ",
+      "lastName": "Santos",
+      "cpf": "15535698523",
+      "rg": "1458995663",
+      "dataNasc": "2001-10-25",
+      "email": "gabriel.costa@gmail.com",
+      "phone": "71988455633",
+      "id": 1
+    }
+  ]
+}
